@@ -34,9 +34,6 @@
 <b>Gender:</b> he/his/Male
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
