@@ -57,6 +57,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 </p>
 <br>
 <div>
+  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
@@ -64,5 +65,4 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 </div>
 </div>
     </center>
-    <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 </body>
